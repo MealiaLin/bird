@@ -8,6 +8,8 @@
 ## 1、环境依赖
 js需要跑在服务器上，本项目是依赖于node 8.2.1环境，若是没有node环境，可提取关键代码文件，自己部署喜欢的服务器环境。
 
+若是直接使用本项目，配好node之后运行，打开localhost:3000即可打开项目
+
 ## 2、参照教程
 
 -[How to Make Flappy Bird in HTML5 With Phaser](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
