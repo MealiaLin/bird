@@ -1,0 +1,4 @@
+#忽略node依赖
+node_modules/
+#忽略.idea文件夹
+.idea/
