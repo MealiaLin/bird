@@ -1,6 +1,7 @@
 # flappy-bird
 基于html5+phaser.js+node环境实现flappy-bird
 
+
 ##1、环境依赖
 js需要跑在服务器上，本项目是依赖于node 8.2.1环境，若是没有node环境，可提取关键代码文件，自己部署喜欢的服务器环境。
 
