@@ -1,11 +1,14 @@
 # flappy-bird
 基于html5+phaser.js+node环境实现flappy-bird
 
+![alt](README_images/menu.gif)
+![alt](README_images/getReady.png)
+![alt](README_images/play.gif)
 
-##1、环境依赖
+## 1、环境依赖
 js需要跑在服务器上，本项目是依赖于node 8.2.1环境，若是没有node环境，可提取关键代码文件，自己部署喜欢的服务器环境。
 
-##2、参照教程
+## 2、参照教程
 
 -[How to Make Flappy Bird in HTML5 With Phaser](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 
@@ -15,7 +18,7 @@ js需要跑在服务器上，本项目是依赖于node 8.2.1环境，若是没�
 
 图片资源是网上搜索的，素材是相对完整的
 
-##3、框架
+## 3、框架
 
 js主要框架是phaser.js
 
@@ -23,7 +26,7 @@ Phaser是一个简单易用且功能强大的html5游戏框架，利用它可以
 
 phaser.js主要知识可在官方文档学习，这边我是在[phaser学习笔记](https://stonetingxin.gitbooks.io/phaser/content/introudce/README.html)学习的
 
-##4、关键文件
+## 4、关键文件
 
 整个代码关键文件在于：public/images、public/javascript、views/index.ejs
 
